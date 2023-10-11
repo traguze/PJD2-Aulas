@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHero xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Hero>
+        <Name>Pedrinho</Name>
+        <Health>2</Health>
+        <Level>4</Level>
+        <Xp>100</Xp>
+    </Hero>
+    <Hero>
+        <Name>Claudio</Name>
+        <Health>10</Health>
+        <Level>45</Level>
+        <Xp>234</Xp>
+    </Hero>
+    <Hero>
+        <Name>Megaman</Name>
+        <Health>100</Health>
+        <Level>2147483647</Level>
+        <Xp>2147483647</Xp>
+    </Hero>
+</ArrayOfHero>

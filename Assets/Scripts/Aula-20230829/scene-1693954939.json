@@ -1,0 +1,70 @@
+{
+  "$id": "1",
+  "transform": [
+    {
+      "$id": "2",
+      "$values": []
+    },
+    {
+      "$id": "3",
+      "$values": []
+    },
+    {
+      "$id": "4",
+      "$values": []
+    },
+    {
+      "$id": "5",
+      "$values": []
+    },
+    {
+      "$id": "6",
+      "$values": []
+    },
+    {
+      "$id": "7",
+      "$values": []
+    },
+    {
+      "$id": "8",
+      "$values": []
+    },
+    {
+      "$id": "9",
+      "$values": []
+    },
+    {
+      "$id": "10",
+      "$values": []
+    },
+    {
+      "$id": "11",
+      "$values": []
+    },
+    {
+      "$id": "12",
+      "$values": []
+    }
+  ],
+  "layer": 0,
+  "activeSelf": true,
+  "activeInHierarchy": true,
+  "isStatic": false,
+  "tag": "Untagged",
+  "scene": {
+    "handle": -12232,
+    "path": "Assets/Scenes/Aula-20230905.unity",
+    "name": "Aula-20230905",
+    "isLoaded": false,
+    "buildIndex": 0,
+    "isDirty": false,
+    "rootCount": 8,
+    "isSubScene": false
+  },
+  "sceneCullingMask": 16140901064495857664,
+  "gameObject": {
+    "$ref": "1"
+  },
+  "name": "GameObject",
+  "hideFlags": 0
+}

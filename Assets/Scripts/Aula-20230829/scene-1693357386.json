@@ -1,0 +1,22 @@
+{
+  "$id": "1",
+  "transform": [],
+  "layer": 0,
+  "activeSelf": true,
+  "activeInHierarchy": true,
+  "isStatic": false,
+  "tag": "Untagged",
+  "scene": {
+    "handle": -1230,
+    "path": "Assets/Scenes/Aula-20230829.unity",
+    "name": "Aula-20230829",
+    "isLoaded": false,
+    "buildIndex": 0,
+    "isDirty": false,
+    "rootCount": 8,
+    "isSubScene": false
+  },
+  "sceneCullingMask": 16140901064495857664,
+  "name": "Ground",
+  "hideFlags": 0
+}
